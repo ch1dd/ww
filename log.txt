@@ -1,0 +1,9 @@
+[0] Start
+[1] Add pipe start
+[2] Add pipe finish
+[3] Connect the pipe and compressor stations start
+[4] Connect the pipe and compressor stations finish
+[5] Connect the pipe and compressor stations start
+[6] Connect the pipe and compressor stations finish
+[7] Add compressor station start
+[8] Add compressor station finish
