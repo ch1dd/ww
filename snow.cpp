@@ -126,7 +126,7 @@ void SearchCompressorStations(unordered_map <int, CompressorStation>& compressor
 	{
 		int commandNumber;
 		cout << "By what criteria do you want to find a Compressor Station?" << endl
-			<< "1. Id and asd" << endl
+			<< "1. Id " << endl
 			<< "2. Name" << endl
 			<< "3. Percent of active worskshops" << endl
 			<< "4. Back" << endl
